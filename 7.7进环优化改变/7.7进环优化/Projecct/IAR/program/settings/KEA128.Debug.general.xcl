@@ -1,0 +1,15 @@
+"D:\ARM\arm\bin\armproc.dll" 
+
+"D:\ARM\arm\bin\armjlink2.dll" 
+
+"D:\QQFile\7.7进环优化改变\7.7进环优化\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin "D:\ARM\arm\bin\armbat.dll" 
+
+--device_macro "D:\ARM\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "D:\ARM\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
